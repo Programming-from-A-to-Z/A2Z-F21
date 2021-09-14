@@ -57,3 +57,4 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 
 - Name -- [assignment title](assignment url)
 - Tarun Sharma -- [Constrained writing – Spacing dictated by the fibonacci sequence](https://brownsloth.github.io/2021/09/13/constrained-writing/#Demo)
+- David Leyva -- [No Paris???](https://wp.nyu.edu/davidaleyva/week-1-homework/)
