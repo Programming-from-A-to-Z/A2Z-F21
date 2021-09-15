@@ -1,30 +1,40 @@
 # Regular Expressions
 
+## Emoji Key for Video Tutorials, Readings, and more
+
+- 🚨 Watch this video tutorial! (this is technical info needed for the examples). Of course if you alreaddy know this material, you can skip.
+- 🔢 This is found in a group, maybe pick just one to check out!
+- 🍿 Additional video if you have a particular interest and want to do a deeper dive.
+- 📕 Required reading! Let's make sure we all have read this.
+- 📚 Optional additional reading for a deeper dive.
+- 💻 Code examples here!
+- 🔗 Extra reference material / link
+
 ## Aside: DOM and ES6 Review
 
-- [Arrow Function video tutorial](https://youtu.be/mrYMzpbFz18)
-- [Promises videos](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6bKLPQvPRNNE65kBL62mVfx)
-- [Word Interactor video and code example](https://thecodingtrain.com/CodingChallenges/038-word-interactor.html)
+- 🍿 [Arrow Function video tutorial](https://youtu.be/mrYMzpbFz18)
+- 🍿 [Promises videos](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6bKLPQvPRNNE65kBL62mVfx)
+- 🍿 [Word Interactor video and code example](https://thecodingtrain.com/CodingChallenges/038-word-interactor.html)
 
 ## Regex Notes and Videos
 
-- [2016 Notes and Examples](http://shiffman.net/a2z/regex/)
-- [Regular Expression Video Tutorials](https://www.youtube.com/watch?v=7DG3kCDx53c&list=PLRqwX-V7Uu6YEypLuls7iidwHMdCM6o2w)
-- [Chapter 9: Regular Expressions](https://eloquentjavascript.net/09_regexp.html) from [Eloquent JavaScript](https://eloquentjavascript.net/) by Marijn Haverbeke.
-- [Introducing Regular Expressions: JavaScript and TypeScript](https://learning-oreilly-com.proxy.library.nyu.edu/library/view/introducing-regular-expressions/9781484225080/A434767_1_En_1_Chapter.html) by Jörg Krause. (This is the full book! If you prefer this to the videos I recommend chapters 1-3)
+- 📚 [2016 Notes and Examples](http://shiffman.net/a2z/regex/)
+- 🚨 [Regular Expression Video Tutorials](https://www.youtube.com/watch?v=7DG3kCDx53c&list=PLRqwX-V7Uu6YEypLuls7iidwHMdCM6o2w)
+- 📕 [Chapter 9: Regular Expressions](https://eloquentjavascript.net/09_regexp.html) from [Eloquent JavaScript](https://eloquentjavascript.net/) by Marijn Haverbeke.
+- 📚 [Introducing Regular Expressions: JavaScript and TypeScript](https://learning-oreilly-com.proxy.library.nyu.edu/library/view/introducing-regular-expressions/9781484225080/A434767_1_En_1_Chapter.html) by Jörg Krause. (This is the full book! If you prefer this to the videos I recommend chapters 1-3)
 
 ## JavaScript Regex functions
 
-- JavaScript Regex reference: [`test()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp/test), [`exec()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp/exec)
-- String: [`match()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/match)
-- Splitting with regex: [`split()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/split)
-- Replace with regex: [`replace()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/replace)
+- 🔗 JavaScript Regex reference: [`test()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp/test), [`exec()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp/exec)
+- 🔗 String: [`match()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/match)
+- 🔗 Splitting with regex: [`split()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/split)
+- 🔗 Replace with regex: [`replace()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/replace)
 
 ## Libraries and Games
 
-- [randexp.js](http://fent.github.io/randexp.js/)
-- [Regex Golf](https://alf.nu/RegexGolf)
-- [Regular Expression Crossword](https://regexcrossword.com/)
+- 🔗 [randexp.js](http://fent.github.io/randexp.js/)
+- 🔗 [Regex Golf](https://alf.nu/RegexGolf)
+- 🔗 [Regular Expression Crossword](https://regexcrossword.com/)
 
 ## Assignment
 
