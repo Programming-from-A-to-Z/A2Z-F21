@@ -58,5 +58,6 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 - Name -- [assignment title](assignment url)
 - David Leyva -- [No Paris???](https://wp.nyu.edu/davidaleyva/week-1-homework/)
 - Soojin -- [Converting English to Korean Using Numbers](https://www.notion.so/Programming-from-A-Z-7136b52629c945c0ae4c4c3e8dec03e6#43d3fadc094b4e92b54b732c49dbbff9)
+- Shira -- [ink poem](https://shira-sun.github.io/A2Z-01/)
 - Nick Parisi -- [Constrained Word Assignment](https://wp.nyu.edu/spacethewhale/analog-constrained-writing/)
 - Tarun Sharma -- [Constrained writing – Spacing dictated by the fibonacci sequence](https://brownsloth.github.io/2021/09/13/constrained-writing/#Demo)
