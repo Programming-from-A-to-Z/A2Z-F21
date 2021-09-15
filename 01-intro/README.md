@@ -61,3 +61,5 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 - Nick Parisi -- [Constrained Word Assignment](https://wp.nyu.edu/spacethewhale/analog-constrained-writing/)
 - Tarun Sharma -- [Constrained writing – Spacing dictated by the fibonacci sequence](https://brownsloth.github.io/2021/09/13/constrained-writing/#Demo)
 - Henry Wang -- [Constrained writing with code - Time about Kaiyu](https://henryiswhy.tumblr.com/post/662405466137264128/programming-from-a-to-z-week-1) 
+- Xiangrui Zeng -- [Constrained writing - Pie Spacing](https://siro1998.github.io/A-to-Z/)
+- Cheer Chen -- [Constrained writing – DROPS] https://cheeeeeeer.github.io/Programming-A2Z/dist/index
