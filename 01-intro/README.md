@@ -64,3 +64,4 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 - Xiangrui Zeng -- [Constrained writing - Pie Spacing](https://siro1998.github.io/A-to-Z/)
 - Casta Zhu -- [Constrained writing](https://solstice-license-eb4.notion.site/Wee1-Assignment-bbecb24a85f240e99305a31b4c7f686d)
 - Cheer Chen -- [Constrained writing – DROPS](https://cheeeeeeer.github.io/Programming-A2Z/dist/index)
+- Yonatan Rozin -- [Algorithmically Synthesized Text](https://wp.nyu.edu/yonatanrozin/algorithmically-synthesized-writing/)
