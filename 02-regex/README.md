@@ -19,7 +19,16 @@
 ## Regex Notes and Videos
 
 - 📚 [2016 Notes and Examples](http://shiffman.net/a2z/regex/)
-- 🚨 [Regular Expression Video Tutorials](https://www.youtube.com/watch?v=7DG3kCDx53c&list=PLRqwX-V7Uu6YEypLuls7iidwHMdCM6o2w)
+- [Regular Expression Video Tutorials](https://www.youtube.com/watch?v=7DG3kCDx53c&list=PLRqwX-V7Uu6YEypLuls7iidwHMdCM6o2w)
+  - 🚨 [Intro to Regex](https://youtu.be/7DG3kCDx53c?list=PLRqwX-V7Uu6YEypLuls7iidwHMdCM6o2w) - ~11 min
+  - 🚨 [Meta-Characteres](https://www.youtube.com/watch?v=YTocEnDsMNw&list=PLRqwX-V7Uu6YEypLuls7iidwHMdCM6o2w&index=2) - ~16 min
+  - 🚨 [Character Classes](https://www.youtube.com/watch?v=EfJU0Y9WAZ4&list=PLRqwX-V7Uu6YEypLuls7iidwHMdCM6o2w&index=3) - ~14 min
+  - 🚨 [Capturing Groups](https://youtu.be/c9HbsUSWilw?list=PLRqwX-V7Uu6YEypLuls7iidwHMdCM6o2w) - ~13 min
+  - 🍿 [Back References](https://youtu.be/Z66TeSTcP-Q?list=PLRqwX-V7Uu6YEypLuls7iidwHMdCM6o2w) - ~4 min
+  - 🚨 [test() and match()](https://youtu.be/W7S_Vmq0GSs?list=PLRqwX-V7Uu6YEypLuls7iidwHMdCM6o2w) - ~17 min
+  - 🍿 [exec()](https://youtu.be/t029QcVHtas?list=PLRqwX-V7Uu6YEypLuls7iidwHMdCM6o2w) - ~7 min
+  - 🚨 [split()](https://youtu.be/fdyqutmcI2Q?list=PLRqwX-V7Uu6YEypLuls7iidwHMdCM6o2w) - ~9 min
+  - 🍿 [replace()](https://youtu.be/7a-a6lKoyIQ?list=PLRqwX-V7Uu6YEypLuls7iidwHMdCM6o2w) - ~19 min
 - 📕 [Chapter 9: Regular Expressions](https://eloquentjavascript.net/09_regexp.html) from [Eloquent JavaScript](https://eloquentjavascript.net/) by Marijn Haverbeke.
 - 📚 [Introducing Regular Expressions: JavaScript and TypeScript](https://learning-oreilly-com.proxy.library.nyu.edu/library/view/introducing-regular-expressions/9781484225080/A434767_1_En_1_Chapter.html) by Jörg Krause. (This is the full book! If you prefer this to the videos I recommend chapters 1-3)
 
