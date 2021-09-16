@@ -67,4 +67,5 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 - David Currie [Contrained Writing Assignment](https://davidalexandercurrie.com/blog/constrained-writing/)
 - Casta Zhu -- [Constrained writing](https://solstice-license-eb4.notion.site/Wee1-Assignment-bbecb24a85f240e99305a31b4c7f686d)
 - Cheer Chen -- [Constrained writing – DROPS](https://cheeeeeeer.github.io/Programming-A2Z/dist/index)
+- Mai -- [Constrained writing: Oscar Wilde](https://wp.nyu.edu/mai_blog/week-1-a2z/)
 - Yonatan Rozin -- [Algorithmically Synthesized Text](https://wp.nyu.edu/yonatanrozin/algorithmically-synthesized-writing/)
