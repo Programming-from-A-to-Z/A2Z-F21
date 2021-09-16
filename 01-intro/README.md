@@ -63,7 +63,7 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 - Tarun Sharma -- [Constrained writing – Spacing dictated by the fibonacci sequence](https://brownsloth.github.io/2021/09/13/constrained-writing/#Demo)
 - Henry Wang -- [Constrained writing with code - Time about Kaiyu](https://henryiswhy.tumblr.com/post/662405466137264128/programming-from-a-to-z-week-1) 
 - Xiangrui Zeng -- [Constrained writing - Pie Spacing](https://siro1998.github.io/A-to-Z/)
-- Cheer Chen -- [Constrained writing – DROPS] https://cheeeeeeer.github.io/Programming-A2Z/dist/index
+- Cheer Chen -- [Constrained writing – DROPS] https://cheeeeeeer.github.io/Programming-A2Z/dist/index- Jeeyoon Hyun - [Squarify!!](https://a2z-week-1.glitch.me)
 - David Currie [Contrained Writing Assignment](https://davidalexandercurrie.com/blog/constrained-writing/)
 - Casta Zhu -- [Constrained writing](https://solstice-license-eb4.notion.site/Wee1-Assignment-bbecb24a85f240e99305a31b4c7f686d)
 - Cheer Chen -- [Constrained writing – DROPS](https://cheeeeeeer.github.io/Programming-A2Z/dist/index)
