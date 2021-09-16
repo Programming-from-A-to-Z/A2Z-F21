@@ -69,3 +69,4 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 - Cheer Chen -- [Constrained writing – DROPS](https://cheeeeeeer.github.io/Programming-A2Z/dist/index)
 - Mai -- [Constrained writing: Oscar Wilde](https://wp.nyu.edu/mai_blog/week-1-a2z/)
 - Yonatan Rozin -- [Algorithmically Synthesized Text](https://wp.nyu.edu/yonatanrozin/algorithmically-synthesized-writing/)
+- Suraj Barthy --[Acrostic Pluralistic](https://wp.nyu.edu/surajbarthy/a2z-week-1/)
