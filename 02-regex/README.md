@@ -70,6 +70,7 @@ In preparation for next week, add a link to a data source or API (even just data
 - David Leyva -- [GIPHY API](https://developers.giphy.com/docs/api/)
 - Bowei Xu -- [NASA](https://api.nasa.gov/)
 - Soojin Lee --[YouTube](https://developers.google.com/youtube/)
+- Tarun Sharma - W/O api:[Size of things](https://en.wikipedia.org/wiki/Orders_of_magnitude_(length)) and [TV Quotes](https://www.tv-quotes.com/), With api:[genius.com](https://docs.genius.com/)
 - Shira -- [Oxford Dictionaries](https://developer.oxforddictionaries.com/)
 - Jeeyoon Hyun -- [Screenshot API](https://docs.screenshotapi.net/)
 
@@ -79,3 +80,4 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 
 - Name -- [assignment title](assignment url)
 - David Leyva -- [RegEx Quiz](https://wp.nyu.edu/davidaleyva/week-2-homework/)
+- Tarun Sharma -- [Chaotic Poetry](https://brownsloth.github.io/2021/09/19/regular-expressions/#Demo)
