@@ -76,3 +76,4 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 
 - Name -- [assignment title](assignment url)
 - David Leyva -- [RegEx Quiz](https://wp.nyu.edu/davidaleyva/week-2-homework/)
+- Soojin Lee -- [Regex Exercise](file:///Users/soojinlee/Desktop/ITPBlog/week2.html)
