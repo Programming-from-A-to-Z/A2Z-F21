@@ -70,7 +70,8 @@ In preparation for next week, add a link to a data source or API (even just data
 - David Leyva -- [GIPHY API](https://developers.giphy.com/docs/api/)
 - Bowei Xu -- [NASA](https://api.nasa.gov/)
 - Soojin Lee --[YouTube](https://developers.google.com/youtube/)
-- - Shira -- [Oxford Dictionaries](https://developer.oxforddictionaries.com/)
+- Shira -- [Oxford Dictionaries](https://developer.oxforddictionaries.com/)
+- Jeeyoon Hyun -- [Screenshot API](https://docs.screenshotapi.net/)
 
 ## Add your assignment below via Pull Request
 
