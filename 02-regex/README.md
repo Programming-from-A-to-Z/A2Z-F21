@@ -70,9 +70,11 @@ In preparation for next week, add a link to a data source or API (even just data
 - David Leyva -- [GIPHY API](https://developers.giphy.com/docs/api/)
 - Bowei Xu -- [NASA](https://api.nasa.gov/)
 - Soojin Lee --[YouTube](https://developers.google.com/youtube/)
+- Tarun Sharma - W/O api:[Size of things](https://en.wikipedia.org/wiki/Orders_of_magnitude_(length)) and [TV Quotes](https://www.tv-quotes.com/), With api:[genius.com](https://docs.genius.com/)
 ## Add your assignment below via Pull Request
 
 _(Please note you are welcome to post under a pseudonym and/or password protect your published assignment. Here is some [helpful information on privacy options for an NYU blog](https://nyu.service-now.com/sp?id=kb_article&sysparm_article=KB0012245&sys_kb_id=b2ddc9da004aa1002a5d036a271e5f70&spa=1). Finally, if you prefer not to post your assignment at all here, you may email the submission.)_
 
 - Name -- [assignment title](assignment url)
 - David Leyva -- [RegEx Quiz](https://wp.nyu.edu/davidaleyva/week-2-homework/)
+- Tarun Sharma -- [Chaotic Poetry](https://brownsloth.github.io/2021/09/19/regular-expressions/#Demo)
