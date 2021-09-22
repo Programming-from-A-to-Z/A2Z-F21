@@ -79,6 +79,7 @@ In preparation for next week, add a link to a data source or API (even just data
 - Cheer Chen -- [Street View Publish API](https://developers.google.com/streetview/publish/reference/rest/)
 - Yonatan Rozin -- [Web Bluetooth API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Bluetooth_API)
 - Xiangrui Zeng -- [Kanye West API](https://kanye.rest/)
+- Casta Zhu -- [City Geo API](https://rapidapi.com/dev132/api/city-geo-location-lookup/)
 
 ## Add your assignment below via Pull Request
 
@@ -93,3 +94,4 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 - Yonatan Rozin -- [Programming with regular expressions](https://wp.nyu.edu/yonatanrozin/programming-with-regular-expressions/)
 - Suraj Barthy -- [\bRegex\b](https://surajbarthy.notion.site/Regular-Expressions-efddf932a737460b9c3ea675ad088b10)
 - Xiangrui Zeng -- [Regex Game](https://github.com/Siro1998/A-to-Z/tree/main/wk2)
+- Casta Zhu -- [Regex Practice](https://solstice-license-eb4.notion.site/Week2-Assignment-e0cc2ce44de14e9db8d7e6f2676b31b5)
