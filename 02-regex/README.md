@@ -98,3 +98,4 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 - Bowei Xu -- [Regex Practice](https://www.boweixu.com/post/regular-expressions)
 - Henry Wang -- [Regex Time Poem](https://henryiswhy.tumblr.com/post/663050575503605760/programming-from-a-to-z-week-2)
 - Junoh Yu -- [Regex Documentation](https://www.junohyu.com/art-tech/syntheticarchitecture-ary4h-fzaz6-mr3el-ctrfc#sa2)
+- David Currie -- [live code css](https://davidalexandercurrie.com/blog/regular-expressions/)
