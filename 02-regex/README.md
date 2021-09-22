@@ -83,6 +83,7 @@ In preparation for next week, add a link to a data source or API (even just data
 _(Please note you are welcome to post under a pseudonym and/or password protect your published assignment. Here is some [helpful information on privacy options for an NYU blog](https://nyu.service-now.com/sp?id=kb_article&sysparm_article=KB0012245&sys_kb_id=b2ddc9da004aa1002a5d036a271e5f70&spa=1). Finally, if you prefer not to post your assignment at all here, you may email the submission.)_
 
 - Name -- [assignment title](assignment url)
+- Shira -- [horoscope RegEx](https://shira-sun.github.io/A2Z-02-regex/)
 - David Leyva -- [RegEx Quiz](https://wp.nyu.edu/davidaleyva/week-2-homework/)
 - Nick Parisi --[Regex Experiment and Game](https://wp.nyu.edu/spacethewhale/regex-text-experiment-and-games/)
 - Tarun Sharma -- [Chaotic Poetry](https://brownsloth.github.io/2021/09/19/regular-expressions/#Demo)
