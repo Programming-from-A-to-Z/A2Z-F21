@@ -89,4 +89,5 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 - Nick Parisi --[Regex Experiment and Game](https://wp.nyu.edu/spacethewhale/regex-text-experiment-and-games/)
 - Tarun Sharma -- [Chaotic Poetry](https://brownsloth.github.io/2021/09/19/regular-expressions/#Demo)
 - Cheer Chen -- [Regex practice](https://wp.nyu.edu/tischschoolofthearts-cheers/week2-regex/)
+- Suraj Barthy -- [\bRegex\b](https://surajbarthy.notion.site/Regular-Expressions-efddf932a737460b9c3ea675ad088b10)
 - Xiangrui Zeng -- [Regex Game](https://github.com/Siro1998/A-to-Z/tree/main/wk2)
