@@ -77,6 +77,7 @@ In preparation for next week, add a link to a data source or API (even just data
 - Jeeyoon Hyun -- [Screenshot API](https://docs.screenshotapi.net/)
 - Suraj Barthy - [Tumblr API](https://www.tumblr.com/docs/en/api/v2)
 - Cheer Chen -- [Street View Publish API](https://developers.google.com/streetview/publish/reference/rest/)
+- Yonatan Rozin -- [Web Bluetooth API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Bluetooth_API)
 - Xiangrui Zeng -- [Kanye West API](https://kanye.rest/)
 
 ## Add your assignment below via Pull Request
@@ -89,5 +90,6 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 - Nick Parisi --[Regex Experiment and Game](https://wp.nyu.edu/spacethewhale/regex-text-experiment-and-games/)
 - Tarun Sharma -- [Chaotic Poetry](https://brownsloth.github.io/2021/09/19/regular-expressions/#Demo)
 - Cheer Chen -- [Regex practice](https://wp.nyu.edu/tischschoolofthearts-cheers/week2-regex/)
+- Yonatan Rozin -- [Programming with regular expressions](https://wp.nyu.edu/yonatanrozin/programming-with-regular-expressions/)
 - Suraj Barthy -- [\bRegex\b](https://surajbarthy.notion.site/Regular-Expressions-efddf932a737460b9c3ea675ad088b10)
 - Xiangrui Zeng -- [Regex Game](https://github.com/Siro1998/A-to-Z/tree/main/wk2)
