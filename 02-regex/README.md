@@ -76,6 +76,7 @@ In preparation for next week, add a link to a data source or API (even just data
 - Shira -- [Oxford Dictionaries](https://developer.oxforddictionaries.com/)
 - Jeeyoon Hyun -- [Screenshot API](https://docs.screenshotapi.net/)
 - Suraj Barthy - [Tumblr API](https://www.tumblr.com/docs/en/api/v2)
+- Cheer Chen -- [Street View Publish API](https://developers.google.com/streetview/publish/reference/rest/)
 
 ## Add your assignment below via Pull Request
 
@@ -85,3 +86,4 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 - David Leyva -- [RegEx Quiz](https://wp.nyu.edu/davidaleyva/week-2-homework/)
 - Nick Parisi --[Regex Experiment and Game](https://wp.nyu.edu/spacethewhale/regex-text-experiment-and-games/)
 - Tarun Sharma -- [Chaotic Poetry](https://brownsloth.github.io/2021/09/19/regular-expressions/#Demo)
+- Cheer Chen -- [Regex practice](https://wp.nyu.edu/tischschoolofthearts-cheers/week2-regex/)
