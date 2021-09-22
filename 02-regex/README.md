@@ -99,3 +99,4 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 - Henry Wang -- [Regex Time Poem](https://henryiswhy.tumblr.com/post/663050575503605760/programming-from-a-to-z-week-2)
 - Junoh Yu -- [Regex Documentation](https://www.junohyu.com/art-tech/syntheticarchitecture-ary4h-fzaz6-mr3el-ctrfc#sa2)
 - Jeeyoon Hyun -- [Glyph Eraser](https://glyph-eraser.glitch.me/)
+- Soojin Lee -- [Regex Games & Exercises](https://soojin-lee0819.github.io/ITPBlog/week2.html)
