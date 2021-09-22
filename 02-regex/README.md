@@ -80,7 +80,7 @@ In preparation for next week, add a link to a data source or API (even just data
 - Yonatan Rozin -- [Web Bluetooth API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Bluetooth_API)
 - Xiangrui Zeng -- [Kanye West API](https://kanye.rest/)
 - Casta Zhu -- [City Geo API](https://rapidapi.com/dev132/api/city-geo-location-lookup/)
-
+- Junoh Yu -- [Tinder API](https://gist.github.com/rtt/10403467)
 ## Add your assignment below via Pull Request
 
 _(Please note you are welcome to post under a pseudonym and/or password protect your published assignment. Here is some [helpful information on privacy options for an NYU blog](https://nyu.service-now.com/sp?id=kb_article&sysparm_article=KB0012245&sys_kb_id=b2ddc9da004aa1002a5d036a271e5f70&spa=1). Finally, if you prefer not to post your assignment at all here, you may email the submission.)_
@@ -97,3 +97,4 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 - Casta Zhu -- [Regex Practice](https://solstice-license-eb4.notion.site/Week2-Assignment-e0cc2ce44de14e9db8d7e6f2676b31b5)
 - Bowei Xu -- [Regex Practice](https://www.boweixu.com/post/regular-expressions)
 - Henry Wang -- [Regex Time Poem](https://henryiswhy.tumblr.com/post/663050575503605760/programming-from-a-to-z-week-2)
+- Junoh Yu -- [Regex Documentation](https://www.junohyu.com/art-tech/syntheticarchitecture-ary4h-fzaz6-mr3el-ctrfc#sa2)
