@@ -96,3 +96,4 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 - Xiangrui Zeng -- [Regex Game](https://github.com/Siro1998/A-to-Z/tree/main/wk2)
 - Casta Zhu -- [Regex Practice](https://solstice-license-eb4.notion.site/Week2-Assignment-e0cc2ce44de14e9db8d7e6f2676b31b5)
 - Bowei Xu -- [Regex Practice](https://www.boweixu.com/post/regular-expressions)
+- Henry Wang -- [Regex Time Poem](https://henryiswhy.tumblr.com/post/663050575503605760/programming-from-a-to-z-week-2)
