@@ -70,3 +70,4 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 - Mai -- [Constrained writing: Oscar Wilde](https://wp.nyu.edu/mai_blog/week-1-a2z/)
 - Yonatan Rozin -- [Algorithmically Synthesized Text](https://wp.nyu.edu/yonatanrozin/algorithmically-synthesized-writing/)
 - Suraj Barthy --[Acrostic Pluralistic](https://wp.nyu.edu/surajbarthy/a2z-week-1/)
+- Junoh Yu --[Constrained Writing](https://www.junohyu.com/art-tech/syntheticarchitecture-ary4h-fzaz6-mr3el-ctrfc)
