@@ -15,7 +15,8 @@
 - 🔗 [RiTa](https://rednoise.org/rita/), a software toolkit for computational literature created by Daniel Howe
   - 🚨 [RiTa Basics tutorial video](https://youtu.be/lIPEvh8HbGQ)
 - 🔗 [Compromise](https://github.com/spencermountain/compromise), modest natural language processing by Spencer Kelly
-- 💻 [p5.js Examples](https://editor.p5js.org/a2zitp/collections/oG3L-OLvGP)
+- 💻 [A2Z p5.js examples](https://editor.p5js.org/a2zitp/collections/oG3L-OLvGP)
+- 💻 [RiTa p5.js examples](https://editor.p5js.org/rita-examples/collections/ltF2vMtaL)
 
 ## Data and APIs
 
@@ -55,17 +56,16 @@
 
 ## Assignment
 
-1. Look through [Corpora](https://github.com/dariusk/corpora). This is a great repo to make your first open source contribution. An optional assignment for this week is to [follow these instructions](https://github.com/Open-Source-Studio-at-ITP/Syllabus/blob/source/data-assignment.md#instructions-for-corpora-contribution) from Open Source Studio and submit a pull request.
+1. Use something "external" (in addition to p5.js) in a browser-based text experiment. You may use the p5 [loadJSON()](https://p5js.org/reference/#/p5/loadJSON) function featured in many of the video tutorials, but this is also an opportunity to explore the JavaScript [fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch) with `await` and `async` as [found in these examples](https://editor.p5js.org/a2zitp/collections/cgfJWhpsE). See above for relevant video tutorials. Here are some ideas:
 
-2. Use something "external" (in addition to p5.js) in a browser-based text experiment. You may use the p5 [loadJSON()](https://p5js.org/reference/#/p5/loadJSON) function featured in many of the video tutorials, but this is also an opportunity to explore the JavaScript [fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch) with `await` and `async` as [found in these examples](https://editor.p5js.org/a2zitp/collections/cgfJWhpsE). See above for relevant video tutorials. Here are some ideas:
-
+   - Look through [Corpora](https://github.com/dariusk/corpora) and download JSON files for use in a p5.js sketch. This is also a great repo to make your first open source contribution! If you are interested in trying as part of your assignment, you can [follow these instructions](https://github.com/Open-Source-Studio-at-ITP/Syllabus/blob/source/data-assignment.md#instructions-for-corpora-contribution) from Open Source Studio and submit a pull request.
    - Use [RiTa.js](https://github.com/dhowe/RiTaJS) or [Compromise](https://github.com/spencermountain/compromise) to analyze and/or modify text.
    - Load a JSON source from [Corpora](https://github.com/dariusk/corpora) or some other API (NY Times, Wikipedia, etc.)
    - Use [Wordnik](http://developer.wordnik.com/) to lookup meta-data about a word.
    - Try using an API that we have not explored in class or in the examples!
    - Collect data using a Google Form and load a CSV using `loadTable()` in p5. There are ways to connect to a Google Sheet directly using the google API and I am working on getting an example for you! For more see [#40](https://github.com/shiffman/A2Z-F20/issues/40).
 
-3. Document your experience working with the library, API, or data source in a blog post and consider the following questions (stemming from the [Excavating AI](https://www.excavating.ai/) reading.
+2. Document your experience working with the library, API, or data source in a blog post and consider the following questions (stemming from the [Excavating AI](https://www.excavating.ai/) reading.
    - What is the origin of the data?
    - Who had the power to collect, label, and make available the data?
    - If you had to create a "data biography" (Thank you to Ellen Nickles for this term), what would you include? Have the maintainers of this dataset or API made this information easily available?
