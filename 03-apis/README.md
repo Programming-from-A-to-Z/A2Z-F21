@@ -63,7 +63,6 @@
    - Load a JSON source from [Corpora](https://github.com/dariusk/corpora) or some other API (NY Times, Wikipedia, etc.)
    - Use [Wordnik](http://developer.wordnik.com/) to lookup meta-data about a word.
    - Try using an API that we have not explored in class or in the examples!
-   - Collect data using a Google Form and load a CSV using `loadTable()` in p5. There are ways to connect to a Google Sheet directly using the google API and I am working on getting an example for you! For more see [#40](https://github.com/shiffman/A2Z-F20/issues/40).
 
 2. Document your experience working with the library, API, or data source in a blog post and consider the following questions (stemming from the [Excavating AI](https://www.excavating.ai/) reading.
    - What is the origin of the data?
