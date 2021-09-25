@@ -60,9 +60,8 @@
 
    - Look through [Corpora](https://github.com/dariusk/corpora) and download JSON files for use in a p5.js sketch. This is also a great repo to make your first open source contribution! If you are interested in trying as part of your assignment, you can [follow these instructions](https://github.com/Open-Source-Studio-at-ITP/Syllabus/blob/source/data-assignment.md#instructions-for-corpora-contribution) from Open Source Studio and submit a pull request.
    - Use [RiTa.js](https://github.com/dhowe/RiTaJS) or [Compromise](https://github.com/spencermountain/compromise) to analyze and/or modify text.
-   - Load a JSON source from [Corpora](https://github.com/dariusk/corpora) or some other API (NY Times, Wikipedia, etc.)
    - Use [Wordnik](http://developer.wordnik.com/) to lookup meta-data about a word.
-   - Try using an API that we have not explored in class or in the examples!
+   - Try using another API from the examples (NYTimes, Wikipedia, etc.) or pick your own not in the examples!
 
 2. Document your experience working with the library, API, or data source in a blog post and consider the following questions (stemming from the [Excavating AI](https://www.excavating.ai/) reading.
    - What is the origin of the data?
