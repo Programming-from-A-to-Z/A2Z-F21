@@ -56,7 +56,7 @@
 
 ## Assignment
 
-1. Use something "external" (in addition to p5.js) in a browser-based text experiment. You may use the p5 [loadJSON()](https://p5js.org/reference/#/p5/loadJSON) function featured in many of the video tutorials, but this is also an opportunity to explore the JavaScript [fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch) with `await` and `async` as [found in these examples](https://editor.p5js.org/a2zitp/collections/cgfJWhpsE). See above for relevant video tutorials. Here are some ideas:
+1. Load "external" data in a browser-based text experiment. You may use the p5 [loadJSON()](https://p5js.org/reference/#/p5/loadJSON) function featured in many of the video tutorials, but this is also an opportunity to explore the JavaScript [fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch) with `await` and `async` as [found in these examples](https://editor.p5js.org/a2zitp/collections/cgfJWhpsE). See above for relevant video tutorials. Here are some ideas:
 
    - Look through [Corpora](https://github.com/dariusk/corpora) and download JSON files for use in a p5.js sketch. This is also a great repo to make your first open source contribution! If you are interested in trying as part of your assignment, you can [follow these instructions](https://github.com/Open-Source-Studio-at-ITP/Syllabus/blob/source/data-assignment.md#instructions-for-corpora-contribution) from Open Source Studio and submit a pull request.
    - Use [RiTa.js](https://github.com/dhowe/RiTaJS) or [Compromise](https://github.com/spencermountain/compromise) to analyze and/or modify text.
