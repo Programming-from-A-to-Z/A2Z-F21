@@ -69,7 +69,7 @@
    - What is the origin of the data?
    - Who had the power to collect, label, and make available the data?
    - If you had to create a "data biography" (Thank you to Ellen Nickles for this term), what would you include? Have the maintainers of this dataset or API made this information easily available?
-   - What potential harms could result from the collection, use (or misue) of the data, especially to marginalized communities?
+   - What potential harms could result from the collection, use (or misue) of the data?
 
 ## Add your assignment below via Pull Request
 
