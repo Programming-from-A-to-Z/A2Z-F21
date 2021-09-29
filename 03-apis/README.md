@@ -84,3 +84,4 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 - Xiangrui [Kanye Quote & Gif](https://github.com/Siro1998/A-to-Z/tree/main/wk3)
 - Yony - [Part of speech synthesis](https://wp.nyu.edu/yonatanrozin/first-adventure-with-apis/)
 - Suraj Barthy - [Kural Call](https://surajbarthy.notion.site/APIs-cc165d80c9e540e1adad260b0a1aa2b5)
+- David Currie - [pokemon api](https://davidalexandercurrie.com/blog/apis/)
