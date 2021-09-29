@@ -85,3 +85,4 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 - Yony - [Part of speech synthesis](https://wp.nyu.edu/yonatanrozin/first-adventure-with-apis/)
 - Suraj Barthy - [Kural Call](https://surajbarthy.notion.site/APIs-cc165d80c9e540e1adad260b0a1aa2b5)
 - Jeeyoon Hyun - [Attaching the NYT API to WordEater](https://jeeyoon-gatsby-blog.netlify.app/blog/2021/09/attaching-the-new-york-times-api-to-wordeater/)
+- David Currie - [pokemon api](https://davidalexandercurrie.com/blog/apis/)
