@@ -78,4 +78,5 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 - Cheer Chen - [Water](https://wp.nyu.edu/tischschoolofthearts-cheers/week3-apis/)
 - Tarun Sharma - [(Under-construction) Synonym Tree](https://brownsloth.github.io/2021/09/28/synonym-tree/#Demo)
 - Henry Wang - [A 2 Z bookcover](https://henryiswhy.tumblr.com/post/663624924564455424/programming-from-a-to-z-week-3)
+- Soojin Lee - [Exploring Data, Libraries, and APIs](https://soojin-lee0819.github.io/ITPBlog/week3.html)
 - Bowei Xu - [Satellite Locator](https://www.boweixu.com/post/satellite-lookup)
