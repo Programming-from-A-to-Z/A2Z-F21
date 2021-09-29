@@ -12,13 +12,13 @@
 
 ## Concordance
 
-## Reading / Viewing
+### Reading / Viewing
 
 - 🚨 [Eyeo 2014 Ignite - Sarah Groff-Palermo](https://vimeo.com/111211477)
 - 🍿 [The Secret Life of Pronouns: James Pennebaker at TEDxAustin](https://www.youtube.com/watch?v=PGsQwAu3PzU)
 - 🍿 [Overview of Word Counting + Text Analysis](https://youtu.be/tE-ZYXU8A8U)
 
-## Word Counting Basics
+### Word Counting Basics
 
 - 🚨 [Associative Arrays in JavaScript](https://youtu.be/_5jdE6RKxVk?list=PLRqwX-V7Uu6bZQkJcGM5S9fn9R9Yyd8iZ)
 - 🚨 [Word Counting in JavaScript](https://youtu.be/unm0BLor8aE)
@@ -45,7 +45,7 @@
 - 🍿 [Logarithmic scale | Logarithms](https://youtu.be/sBhEi4L91Sg) by Khan Academy
 - 🔗 [TF-IDF Single Page Tutorial](http://www.tfidf.com/)
 
-## Bayesian Text Classification
+### Bayesian Text Classification
 
 - 📚 [A Plan for Spam](http://www.paulgraham.com/spam.html) by Paul Graham
 - 🍿 [Explaining Bayesian Problems Using Visualizations](https://youtu.be/D8VZqxcu0I0) by Luana Micallef
