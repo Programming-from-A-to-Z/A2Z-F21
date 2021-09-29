@@ -22,7 +22,7 @@ The ITP/IMA Code of Conduct is an evolving work-in-progress document that establ
 
 ### Week 3 - [Data and APIs](03-apis), Sep 22
 
-### Week 4 - Text Analysis, Sep 29
+### Week 4 - [Text Analysis](04-word-counting), Sep 29
 
 ### Week 5 - Bots Part 1 (Twitter), Oct 6
 
