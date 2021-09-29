@@ -75,3 +75,4 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 
 - Name - [title](url)
 - David Leyva - [Once Upon a GIF](https://wp.nyu.edu/davidaleyva/week-3-homework/)
+- Tarun Sharma - [(Under-construction) Synonym Tree](https://brownsloth.github.io/2021/09/28/synonym-tree/#Demo)
