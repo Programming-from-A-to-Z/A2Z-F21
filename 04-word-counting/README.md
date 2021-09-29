@@ -23,7 +23,6 @@
 - 🚨 [Associative Arrays in JavaScript](https://youtu.be/_5jdE6RKxVk?list=PLRqwX-V7Uu6bZQkJcGM5S9fn9R9Yyd8iZ)
 - 🚨 [Word Counting in JavaScript](https://youtu.be/unm0BLor8aE)
   - 💻 [p5.js word counting sketch](https://editor.p5js.org/codingtrain/sketches/icFi8MF7N)
-  - 💻 [p5.js word counting visualization edits from class](https://editor.p5js.org/a2zitp/sketches/DALOdSi07)
 - 💻 [Additional p5.js word counting visualization](https://editor.p5js.org/a2zitp/sketches/50rBhpEsT)
 - 💻 [p5.js word counting two documents visualization](https://editor.p5js.org/a2zitp/sketches/uyLWWpQKB)
 
