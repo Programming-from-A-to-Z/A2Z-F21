@@ -82,3 +82,4 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 - Bowei Xu - [Satellite Locator](https://www.boweixu.com/post/satellite-lookup)
 - Mai - [API](https://wp.nyu.edu/mai_blog/week-3-a2z/)
 - Yony - [Part of speech synthesis](https://wp.nyu.edu/yonatanrozin/first-adventure-with-apis/)
+- Suraj Barthy - [Kural Call](https://surajbarthy.notion.site/APIs-cc165d80c9e540e1adad260b0a1aa2b5)
