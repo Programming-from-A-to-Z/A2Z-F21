@@ -77,3 +77,4 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 
 - Nick Parisi - [Counting Cults](https://wp.nyu.edu/spacethewhale/word-counting-cults/)
 - David Leyva - [French Word Count](https://wp.nyu.edu/davidaleyva/week-4-homework/)
+- Tarun Sharma - [Word Bubbles](https://brownsloth.github.io/2021/10/05/word-bubbles/)
