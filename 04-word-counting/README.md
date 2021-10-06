@@ -34,6 +34,7 @@
 - 🔗 [Entangled Word Bank](http://www.stefanieposavec.com/entangled-word-bank) by Stephanie Posavec
 - 🔗 [Annual Report 2013](http://feltron.com/FAR13.html) by Nicholas Feltron
 - 🔗 [Partisan Thesauras](http://partisanthesaurus.com/) by Melanie Hoff
+- 🔗 [Literary Constellations](https://c82.net/work/?id=357)by Nicholas Rougeux
 
 ## Text Analysis
 
@@ -81,3 +82,4 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 - Soojin Lee - [Counting Words: English Song Data Visualization In Korean](https://soojin-lee0819.github.io/ITPBlog/week4.html)
 - Cheer Chen - [I Love Bananas](https://wp.nyu.edu/tischschoolofthearts-cheers/week-4-text-analysis/)
 - Mai - [Counting Words](https://wp.nyu.edu/mai_blog/week-4-a2z/)
+- Henry Wang - [To Steve Jobs](https://henryiswhy.tumblr.com/post/664262683689975808/programming-from-a-to-z-week-4)
