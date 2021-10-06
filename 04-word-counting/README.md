@@ -85,3 +85,4 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 - Henry Wang - [To Steve Jobs](https://henryiswhy.tumblr.com/post/664262683689975808/programming-from-a-to-z-week-4)
 - Bowei Xu - [Catch Phrase Catcher](https://www.boweixu.com/post/chatbot-learn-and-test)
 - Casta Zhu - [Count lyrics](https://www.notion.so/Week4-Assignment-4170501d3234411abb78251371e172aa)
+- Yonatan Rozin - [Positional Word "Counting"](https://wp.nyu.edu/yonatanrozin/word-counting/)
