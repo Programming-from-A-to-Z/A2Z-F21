@@ -34,7 +34,7 @@
 - 🔗 [Entangled Word Bank](http://www.stefanieposavec.com/entangled-word-bank) by Stephanie Posavec
 - 🔗 [Annual Report 2013](http://feltron.com/FAR13.html) by Nicholas Feltron
 - 🔗 [Partisan Thesauras](http://partisanthesaurus.com/) by Melanie Hoff
-- 🔗 [Literary Constellations](https://c82.net/work/?id=357)by Nicholas Rougeux
+- 🔗 [Literary Constellations](https://c82.net/work/?id=357) by Nicholas Rougeux
 
 ## Text Analysis
 
@@ -87,3 +87,4 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 - Suraj Barthy - [Text Fail](https://surajbarthy.notion.site/Word-count-16251e0c9c234a909450c3f18651f17d)
 - Casta Zhu - [Count lyrics](https://www.notion.so/Week4-Assignment-4170501d3234411abb78251371e172aa)
 - Yonatan Rozin - [Positional Word "Counting"](https://wp.nyu.edu/yonatanrozin/word-counting/)
+- David Currie - [tweet count](https://davidalexandercurrie.com/blog/counting-words/)
