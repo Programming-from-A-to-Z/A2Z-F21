@@ -56,13 +56,14 @@
 
 Create a bot! For the purposes of this class, I'm defining a bot as "a computer program which conducts a conversation via auditory or textual methods." This can be applied very broadly, that conversation can be one-sided, two-sided, multi-sided, and it's optional whether there are humans involved at all! You may choose any platform for the course. Examples are provided above for [Discord](https://discord.com/) and [Twitter](http://twitter.com/) but you are welcome to experiment with any social media platform, service, conversational interface, hardware, website, sms system, etc. as you see fit!
 
-Document the process of creating your bot and running your bot in a blog post. Include sample interactions / posts from your bot with screenshots, embedded tweets. Reflect on the [Bot Code of Conduct](https://github.com/Programming-from-A-to-Z/Bot-Code-of-Conduct/blob/main/README.md) and what ethical questions you considered as part of your process.
+Document the process of creating your bot and running your bot in a blog post. Include sample interactions / posts from your bot with screenshots, embedded tweets,etc. Reflect on the [Bot Code of Conduct](https://github.com/Programming-from-A-to-Z/Bot-Code-of-Conduct/blob/main/README.md) and what ethical questions you considered as part of your process and documentation.
 
 Prepare a 5 minute presentation on your bot on Wednesday, Oct 20th.
 
 ## Add your assignment below via Pull Request
 
 _(Please note you are welcome to post under a pseudonym and/or password protect your published assignment. Here is some [helpful information on privacy options for an NYU blog](https://nyu.service-now.com/sp?id=kb_article&sysparm_article=KB0012245&sys_kb_id=b2ddc9da004aa1002a5d036a271e5f70&spa=1). Finally, if you prefer not to post your assignment at all here, you may email the submission.)_
+* Name - [project title](url)
 
 ## Emoji Key for Video Tutorials, Readings, and more
 
