@@ -24,11 +24,9 @@
 
 ## Discord API
 
-- 🚨 [Discord Bot Step-by-Step Video Tutorials](https://thecodingtrain.com/learning/bots/discord/)
-- 💻 [Example bot code and steps to follow](https://github.com/CodingTrain/Discord-Bot-Choo-Choo)
+- 💻 **[2021 latest Discord Bot Example code and README steps to follow!](https://github.com/Programming-from-A-to-Z/Discord-Bots-F21)**
 - 📕 [discord.js guide](https://discordjs.guide/)
-- 💻 [Coding Garden example Discord Bot](https://github.com/CodingGarden/intro-discord-bot)
-- 🍿 [Coding Garden Discord Bot live stream](https://youtu.be/gzM7kj6gV5I)
+- 🍿 [2020 Discord Bot Step-by-Step Video Tutorials](https://thecodingtrain.com/learning/bots/discord/) -- Mostly out of date now! 😭😭😭
 
 ## Reading
 
