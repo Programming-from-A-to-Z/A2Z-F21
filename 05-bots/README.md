@@ -65,6 +65,7 @@ Prepare a 5 minute presentation on your bot on Wednesday, Oct 20th.
 _(Please note you are welcome to post under a pseudonym and/or password protect your published assignment. Here is some [helpful information on privacy options for an NYU blog](https://nyu.service-now.com/sp?id=kb_article&sysparm_article=KB0012245&sys_kb_id=b2ddc9da004aa1002a5d036a271e5f70&spa=1). Finally, if you prefer not to post your assignment at all here, you may email the submission.)_
 * Name - [project title](url)
 * David Leyva - [Sally the Roasting Bot](https://wp.nyu.edu/davidaleyva/bots-project/)
+* Junoh Yu - [Random Clips(Bot) with Processing](https://www.junohyu.com/art-tech/syntheticarchitecture-ary4h-fzaz6-mr3el-ctrfc#sa4)
 * Cheer Chen - [StirDuck Bot](https://wp.nyu.edu/tischschoolofthearts-cheers/week-6-bots-part-2-discord/)
 
 ## Emoji Key for Video Tutorials, Readings, and more
