@@ -88,3 +88,4 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 - Casta Zhu - [Count lyrics](https://www.notion.so/Week4-Assignment-4170501d3234411abb78251371e172aa)
 - Yonatan Rozin - [Positional Word "Counting"](https://wp.nyu.edu/yonatanrozin/word-counting/)
 - David Currie - [tweet count](https://davidalexandercurrie.com/blog/counting-words/)
+- Xiangrui Zeng - [Lyrics Count](https://github.com/Siro1998/A-to-Z/tree/main/wk4)
