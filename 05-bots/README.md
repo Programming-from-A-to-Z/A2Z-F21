@@ -73,6 +73,7 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 * Yonatan Rozin - [Existing FeatureBot](https://wp.nyu.edu/yonatanrozin/creating-a-discord-bot/)
 * Bowei - [Discord Chatbot](https://www.boweixu.com/post/discord-chatbot)
 * Cheer Chen - [StirDuck Bot](https://wp.nyu.edu/tischschoolofthearts-cheers/week-6-bots-part-2-discord/)
+* Mai - [MaiBot](https://wp.nyu.edu/mai_blog/week-6-a2z/)
 
 ## Emoji Key for Video Tutorials, Readings, and more
 
