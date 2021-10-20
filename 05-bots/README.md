@@ -70,6 +70,7 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 * Bowei - [Discord Chatbot](https://www.boweixu.com/post/discord-chatbot)
 * Junoh Yu - [Random Clips(Bot) with Processing](https://www.junohyu.com/art-tech/syntheticarchitecture-ary4h-fzaz6-mr3el-ctrfc#sa4)
 * Cheer Chen - [StirDuck Bot](https://wp.nyu.edu/tischschoolofthearts-cheers/week-6-bots-part-2-discord/)
+* Tarun Sharma - [MashupMaker Bot](https://brownsloth.github.io/2021/10/20/rap-mashup-bot/)
 
 ## Emoji Key for Video Tutorials, Readings, and more
 
