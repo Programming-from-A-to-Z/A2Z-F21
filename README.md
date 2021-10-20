@@ -28,7 +28,7 @@ The ITP/IMA Code of Conduct is an evolving work-in-progress document that establ
 
 ### Week 6 - [Bots Part 2 (Discord)](05-bots), Oct 13
 
-### Week 7 - Bot Experiments Sharing, Oct 20
+### Week 7 - [Bot Experiments Sharing]((05-bots), Oct 20
 
 ### Week 8 - Text Generation: Markov Chains, Oct 27
 
