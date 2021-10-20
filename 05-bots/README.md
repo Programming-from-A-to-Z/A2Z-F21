@@ -74,6 +74,7 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 * Bowei - [Discord Chatbot](https://www.boweixu.com/post/discord-chatbot)
 * Cheer Chen - [StirDuck Bot](https://wp.nyu.edu/tischschoolofthearts-cheers/week-6-bots-part-2-discord/)
 * Mai - [MaiBot](https://wp.nyu.edu/mai_blog/week-6-a2z/)
+* Casta - [K.K.Slider Bot](https://solstice-license-eb4.notion.site/Week5-6-Assignment-73d3cf22f9cc49f18d298eb6ecea8574)
 
 ## Emoji Key for Video Tutorials, Readings, and more
 
