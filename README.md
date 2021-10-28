@@ -30,7 +30,7 @@ The ITP/IMA Code of Conduct is an evolving work-in-progress document that establ
 
 ### Week 7 - [Bot Experiments Sharing](05-bots#add-your-assignment-below-via-pull-request), Oct 20
 
-### Week 8 - Text Generation: Markov Chains, Oct 27
+### Week 8 - [Text Generation: Markov Chains](06-markov), Oct 27
 
 ### Week 9 - Text Generation: Context-Free Grammars, Nov 3
 
