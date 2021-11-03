@@ -9,7 +9,7 @@
 - 🍿 [CFG with RiTa](https://youtu.be/VaAoIaZ3YKs)
 - 🍿 [CFG "from scratch" with p5.js](https://youtu.be/8Z9FRiW2Jlc)
 - 💻 [CFG p5.js code examples](https://editor.p5js.org/a2zitp/collections/5IFiJuQZa)
-- 💻 [RiGrammer](https://rednoise.org/rita/reference/RiTa/grammar/index.html) from RiTa library
+- 💻 [RiGrammer](https://rednoise.org/rita/reference/RiTa/grammar/index.html) from RiTa library, [RiGrammar example](https://editor.p5js.org/rita-examples/sketches/7vWYB1HEn)
 - 📚 [2016 Notes on Context-Free Grammar](http://shiffman.net/a2z/cfg)
 
 ## CFG Project References
