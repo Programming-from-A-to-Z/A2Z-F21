@@ -45,6 +45,7 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 - Bowei - [Random Exhibition Title Generator](https://www.boweixu.com/post/random-exhibition-title-generator)
 - Henry Wang - [ITP PCOMP Project Generator](https://henryiswhy.tumblr.com/post/666797983855198208/programming-from-a-to-z-week-8)
 - Soojin Lee - [Markov Chain Instagram Caption & Song Remix](https://soojin-lee0819.github.io/ITPBlog/week8.html)
+- Yonatan Rozin - [Markov Chain "-ism" Generator](https://wp.nyu.edu/yonatanrozin/art-ism-generator-w-markov-chains/)
 - Nick Parisi - [Markov Spell Generator](https://wp.nyu.edu/spacethewhale/markov-spell-generator/)
 
 ## Emoji Key for Video Tutorials, Readings, and more
