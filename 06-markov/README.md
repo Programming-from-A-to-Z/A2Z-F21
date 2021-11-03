@@ -43,7 +43,8 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 - David Leyva - [Rapper Name Generator](https://wp.nyu.edu/davidaleyva/week-8-homework/)
 - Cheer Chen - [RitaMarkovEvercise](https://wp.nyu.edu/tischschoolofthearts-cheers/week-8-text-generation-markov-chains/)
 - Bowei - [Random Exhibition Title Generator](https://www.boweixu.com/post/random-exhibition-title-generator)
-- 
+- Soojin Lee - [Markov Chain Instagram Caption & Song Remix](https://soojin-lee0819.github.io/ITPBlog/week8.html)
+
 ## Emoji Key for Video Tutorials, Readings, and more
 
 - 🚨 Watch this video tutorial! (this is technical info needed for the examples). Of course if you alreaddy know this material, you can skip.
