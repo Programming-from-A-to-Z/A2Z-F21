@@ -47,6 +47,7 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 - Soojin Lee - [Markov Chain Instagram Caption & Song Remix](https://soojin-lee0819.github.io/ITPBlog/week8.html)
 - Yonatan Rozin - [Markov Chain "-ism" Generator](https://wp.nyu.edu/yonatanrozin/art-ism-generator-w-markov-chains/)
 - Nick Parisi - [Markov Spell Generator](https://wp.nyu.edu/spacethewhale/markov-spell-generator/)
+- Mai - [Markov Chain](https://wp.nyu.edu/mai_blog/week-8-a2z/)
 - Xiangrui Zeng - [Markov Chain Lyrics Generator](https://github.com/Siro1998/A-to-Z/tree/main/wk8)
 - Suraj Barthy - [Markov Kural Tests](https://surajbarthy.notion.site/Markov-Chain-1f9c4518147448bf96657ad6a9d4698b)
 
