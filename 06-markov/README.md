@@ -50,6 +50,7 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 - Mai - [Markov Chain](https://wp.nyu.edu/mai_blog/week-8-a2z/)
 - Xiangrui Zeng - [Markov Chain Lyrics Generator](https://github.com/Siro1998/A-to-Z/tree/main/wk8)
 - Suraj Barthy - [Markov Kural Tests](https://surajbarthy.notion.site/Markov-Chain-1f9c4518147448bf96657ad6a9d4698b)
+- Jeeyoon Hyun - [NYTimes Headline Generator](https://blog.jeeyoonhyun.com/2021/11/03/generating-text-from-nytimes-headlines/)
 
 ## Emoji Key for Video Tutorials, Readings, and more
 
