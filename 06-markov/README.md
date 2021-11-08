@@ -52,6 +52,7 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 - Suraj Barthy - [Markov Kural Tests](https://surajbarthy.notion.site/Markov-Chain-1f9c4518147448bf96657ad6a9d4698b)
 - Jeeyoon Hyun - [NYTimes Headline Generator](https://blog.jeeyoonhyun.com/2021/11/03/generating-text-from-nytimes-headlines/)
 - David Currie - [Kanye Quote Generator](https://kanye-markov.herokuapp.com/)
+- Junoh Yu - [Markov Chain - New translate of my daily thoughts](https://www.junohyu.com/art-tech/syntheticarchitecture-ary4h-fzaz6-mr3el-ctrfc#sa5)
 
 ## Emoji Key for Video Tutorials, Readings, and more
 
