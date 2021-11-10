@@ -6,6 +6,7 @@
 - 🍿 [What is word2vec](https://youtu.be/LSS_bos_TPI), [Color Vectors](https://youtu.be/mI23bDF0VRI)
 - 📚 [2018 Universal Sentence Encoder paper](https://arxiv.org/abs/1803.11175)
 - 💻 [Universal Sentence Encoder - tensorflow.js](https://github.com/tensorflow/tfjs-models/tree/master/universal-sentence-encoder)
+- 💻 [Universal Sentence Encoder ml5 + p5](https://editor.p5js.org/a2zitp/sketches/pjV49ct_B)
 
 ## Recurrent Neural Networks
 
