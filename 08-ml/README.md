@@ -35,6 +35,7 @@
 - 💻 [Hugging Face](https://huggingface.co/)
   - 📋 [Inference API for Text Generations](https://api-inference.huggingface.co/docs/python/html/detailed_parameters.html#text-generation-task)
   - 📋 [Model Hub](https://huggingface.co/models)
+  - 💻 [node.js + p5 Hugging Face example code](https://github.com/Programming-from-A-to-Z/Hugging-Face-API-F21)
 
 ## Text to Images AI
 
@@ -47,7 +48,6 @@ Reading list thanks to [@advadnoun](https://twitter.com/advadnoun)!
 - 📚 [Taming Transformers VQGAN blog post](https://compvis.github.io/taming-transformers/)
 - 💻 [The Big Sleep BigGANxCLIP](https://colab.research.google.com/github/levindabhi/CLIP-Notebooks/blob/main/The_Big_Sleep_BigGANxCLIP.ipynb)
 - 💻 [Aleph-Image: CLIPxDAll-E](https://colab.research.google.com/drive/1Q-TbYvASMPRMXCOQjkxxf72CXYjR_8Vp?usp=sharing)
--
 
 ## Emoji Key for Video Tutorials, Readings, and more
 
