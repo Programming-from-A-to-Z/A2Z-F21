@@ -52,6 +52,7 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 - Xiangrui Zeng - [Random Diary Generator](https://github.com/Siro1998/A-to-Z/tree/main/wk9)
 - Cheer Chen - [Today I met a girl called](https://wp.nyu.edu/tischschoolofthearts-cheers/week-9-ml/)
 - Henry Wang - [Fortune Cookie Generator](https://henryiswhy.tumblr.com/post/667435127020863489/programming-from-a-to-z-week-9)
+- Bowei -[Colab Tryouts](https://www.boweixu.com/post/context-free-grammar-and-recurrent-neural-network)
 
 ## Emoji Key for Video Tutorials, Readings, and more
 
