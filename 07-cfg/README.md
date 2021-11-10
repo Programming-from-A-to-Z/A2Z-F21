@@ -56,6 +56,7 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 - Junoh Yu - [Random Words Generator](https://www.junohyu.com/art-tech/syntheticarchitecture-ary4h-fzaz6-mr3el-ctrfc#sa6)
 - Yonatan Rozin - [EMOTIONAL MOVIE CLIMAX generator](https://wp.nyu.edu/yonatanrozin/movie-climax-generator-with-cfgs/)
 - Mai - [Ask Dear One](https://wp.nyu.edu/mai_blog/week-9-a2z/)
+- Jeeyoon Hyun - [Fluffy Artist Generator](https://blog.jeeyoonhyun.com/2021/11/10/fluffy-artist-generator/)
 
 ## Emoji Key for Video Tutorials, Readings, and more
 
