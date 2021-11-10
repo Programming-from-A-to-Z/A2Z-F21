@@ -55,6 +55,7 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 - Bowei -[Colab Tryouts](https://www.boweixu.com/post/context-free-grammar-and-recurrent-neural-network)
 - Junoh Yu - [Random Words Generator](https://www.junohyu.com/art-tech/syntheticarchitecture-ary4h-fzaz6-mr3el-ctrfc#sa6)
 - Yonatan Rozin - [EMOTIONAL MOVIE CLIMAX generator](https://wp.nyu.edu/yonatanrozin/movie-climax-generator-with-cfgs/)
+- Mai - [Ask Dear One](https://wp.nyu.edu/mai_blog/week-9-a2z/)
 
 ## Emoji Key for Video Tutorials, Readings, and more
 
