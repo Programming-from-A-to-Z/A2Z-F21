@@ -36,9 +36,9 @@ The ITP/IMA Code of Conduct is an evolving work-in-progress document that establ
 
 ### Week 10 - [Text Generation: Machine Learning](08-ml), Nov 10
 
-### Week 11 - Final Project Proposals + more ML, Nov 17
+### Week 11 - [Final Project Proposals](final) + [more ML](08-ml), Nov 17
 
-### Week 12 - Final Project Proposals + more node.js API, Nov 24
+### Week 12 - [Final Project Proposals](final) + [more node.js API](08-ml), Nov 24
 
 ### Week 13 - Final Project in Progress, Dec 1
 
