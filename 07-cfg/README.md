@@ -51,6 +51,7 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 - Nick Parisi - [Audio Madlibs kinda](https://wp.nyu.edu/spacethewhale/context-free-grammar-with-audio-kind-of/)
 - Xiangrui Zeng - [Random Diary Generator](https://github.com/Siro1998/A-to-Z/tree/main/wk9)
 - Cheer Chen - [Today I met a girl called](https://wp.nyu.edu/tischschoolofthearts-cheers/week-9-ml/)
+- Bowei -[Colab Tryouts](https://www.boweixu.com/post/context-free-grammar-and-recurrent-neural-network)
 
 ## Emoji Key for Video Tutorials, Readings, and more
 
