@@ -54,6 +54,7 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 - Henry Wang - [Fortune Cookie Generator](https://henryiswhy.tumblr.com/post/667435127020863489/programming-from-a-to-z-week-9)
 - Bowei -[Colab Tryouts](https://www.boweixu.com/post/context-free-grammar-and-recurrent-neural-network)
 - Junoh Yu - [Random Words Generator](https://www.junohyu.com/art-tech/syntheticarchitecture-ary4h-fzaz6-mr3el-ctrfc#sa6)
+
 ## Emoji Key for Video Tutorials, Readings, and more
 
 - 🚨 Watch this video tutorial! (this is technical info needed for the examples). Of course if you already know this material, you can skip.
