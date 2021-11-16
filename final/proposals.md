@@ -8,7 +8,7 @@
 - Soojin - [project name](project url)
 - Nick - [project name](project url)
 - Xiangrui - [project name](project url)
-- Cheer Chen - [project name](project url)
+- Cheer Chen - [Let's guess](https://docs.google.com/presentation/d/10Ok7TEOGEC1EVPGRzLLuugabHcmgYfdUv3Kr_kaYgdw/edit#slide=id.p)
 - Henry Wang - [project name](project url)
 - Bowei - [project name](project url)
 
