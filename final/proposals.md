@@ -4,7 +4,7 @@
 
 ### November 17
 
-- David L - [project name](project url)
+- David L - [Sally](https://wp.nyu.edu/davidaleyva/week-11-final-project-proposal/)
 - Soojin - [project name](project url)
 - Nick - [project name](project url)
 - Xiangrui - [project name](project url)
