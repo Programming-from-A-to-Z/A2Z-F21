@@ -27,6 +27,7 @@
 > among the reasons I use large pre-trained language models sparingly in my computer-generated poetry practice is that being able to know whose voices I'm speaking with is... actually important, as is being understanding how the output came to have its shape - [@aparrish](https://twitter.com/aparrish/)
 
 - 📚 [Attention is All You Need](https://arxiv.org/abs/1706.03762) - Original "Transformer" paper from 2017
+    - Also [Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/abs/1409.0473) -- Attention paper from 2014
 - 📕 [Allison Parrish Large Language Model Tweet Thread](https://twitter.com/aparrish/status/1286808606466244608)
 - 🍿 [On the Dangers of Stochastic Parrots: Can Language Models Be Too Big? 🦜](https://dl.acm.org/doi/10.1145/3442188.3445922)
 - 🍿 [Generative Text Training with GPT-2](https://youtu.be/-v5StaeOisM) from RunwayML
