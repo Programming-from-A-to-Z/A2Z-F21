@@ -6,7 +6,7 @@
 
 - Soojin - [Christmas Kindness Advent Calendar](https://soojin-lee0819.github.io/ITPBlog/week10.html)
 - David L - [Sally](https://wp.nyu.edu/davidaleyva/week-11-final-project-proposal/)
-- Nick - [project name](project url)
+- Nick - [Who Dat Pokemon](https://wp.nyu.edu/spacethewhale/programming-a-to-z-final-who-dat-pokemon/)
 - Xiangrui - [project name](project url)
 - Cheer Chen - [Let's guess](https://docs.google.com/presentation/d/10Ok7TEOGEC1EVPGRzLLuugabHcmgYfdUv3Kr_kaYgdw/edit#slide=id.p)
 - Henry Wang - [Language of Pi](https://henryiswhy.tumblr.com/post/668073280168706048/programming-from-a-to-z-final-project-proposals)
