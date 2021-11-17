@@ -4,12 +4,12 @@
 
 ### November 17
 
-- David L - [project name](project url)
+- David L - [Sally](https://wp.nyu.edu/davidaleyva/week-11-final-project-proposal/)
 - Soojin - [project name](project url)
 - Nick - [project name](project url)
 - Xiangrui - [project name](project url)
 - Cheer Chen - [Let's guess](https://docs.google.com/presentation/d/10Ok7TEOGEC1EVPGRzLLuugabHcmgYfdUv3Kr_kaYgdw/edit#slide=id.p)
-- Henry Wang - [project name](project url)
+- Henry Wang - [Language of Pi](https://henryiswhy.tumblr.com/post/668073280168706048/programming-from-a-to-z-final-project-proposals)
 - Bowei - [project name](project url)
 
 ### November 24
