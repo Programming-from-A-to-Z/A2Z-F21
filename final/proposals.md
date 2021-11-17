@@ -5,7 +5,7 @@
 ### November 17
 
 - David L - [project name](project url)
-- Soojin - [project name](project url)
+- Soojin - [Christmas Kindness Advent Calendar](https://soojin-lee0819.github.io/ITPBlog/week10.html)
 - Nick - [project name](project url)
 - Xiangrui - [project name](project url)
 - Cheer Chen - [project name](project url)
