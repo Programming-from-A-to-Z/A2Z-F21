@@ -10,10 +10,10 @@
 - Cheer Chen - [Let's guess](https://docs.google.com/presentation/d/10Ok7TEOGEC1EVPGRzLLuugabHcmgYfdUv3Kr_kaYgdw/edit#slide=id.p)
 - Henry Wang - [Language of Pi](https://henryiswhy.tumblr.com/post/668073280168706048/programming-from-a-to-z-final-project-proposals)
 - Bowei - [Bot](https://www.boweixu.com/post/a-bot)
+- Casta - [K.K.Slider music album bot pro](https://casta.notion.site/Final-Proposal-K-K-Slider-Bot-pro-8743807cbca140398e054e2bf41ad9b3)
 
 ### November 24
 
-- Casta - [project name](project url)
 - Yonatan - [project name](project url)
 - Mai - [project name](project url)
 - Suraj - [project name](project url)
