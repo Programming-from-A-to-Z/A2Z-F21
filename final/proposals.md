@@ -10,7 +10,7 @@
 - Xiangrui - [project name](project url)
 - Cheer Chen - [Let's guess](https://docs.google.com/presentation/d/10Ok7TEOGEC1EVPGRzLLuugabHcmgYfdUv3Kr_kaYgdw/edit#slide=id.p)
 - Henry Wang - [Language of Pi](https://henryiswhy.tumblr.com/post/668073280168706048/programming-from-a-to-z-final-project-proposals)
-- Bowei - [project name](project url)
+- Bowei - [Bot](https://www.boweixu.com/post/a-bot)
 
 ### November 24
 
