@@ -21,7 +21,7 @@
 - Junoh - [project name](project url)
 - David - [project name](project url)
 - Shira - [project name](project url)
-- Xiangrui - [project name](project url)
+- Xiangrui - [Sentiment Flowers](https://github.com/Siro1998/A-to-Z/tree/main/final%20proposal)
 
 ## Proposal Feedback TLDR:
 
