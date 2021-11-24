@@ -18,7 +18,7 @@
 - Yonatan - [project name](project url)
 - Mai - [project name](project url)
 - Suraj - [project name](project url)
-- Junoh - [project name](project url)
+- Junoh - [Between unreal and real](https://www.junohyu.com/art-tech/syntheticarchitecture-ary4h-fzaz6-mr3el-ctrfc#sa7)
 - David - [project name](project url)
 - Shira - [Computing Tech Illustrations](https://github.com/Shira-sun/A2Z_final)
 - Xiangrui - [Sentiment Flowers](https://github.com/Siro1998/A-to-Z/tree/main/final%20proposal)
