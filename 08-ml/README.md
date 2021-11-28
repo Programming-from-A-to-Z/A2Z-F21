@@ -39,6 +39,7 @@
   - 📋 [Inference API for Text Generations](https://api-inference.huggingface.co/docs/python/html/detailed_parameters.html#text-generation-task)
   - 📋 [Model Hub](https://huggingface.co/models)
   - 💻 [node.js + p5 Hugging Face example code](https://github.com/Programming-from-A-to-Z/Hugging-Face-API-F21)
+  - 💻 [Glitch Template for p5 + hugging face](https://glitch.com/edit/#!/hugging-face-p5-template)
 
 ## Text to Images AI
 
