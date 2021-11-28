@@ -40,6 +40,8 @@
   - 📋 [Model Hub](https://huggingface.co/models)
   - 💻 [node.js + p5 Hugging Face example code](https://github.com/Programming-from-A-to-Z/Hugging-Face-API-F21)
   - 💻 [Glitch Template for p5 + hugging face](https://glitch.com/edit/#!/hugging-face-p5-template)
+  - 🍿 [node.js + express video](https://youtu.be/wxbQP1LMZsw) 
+  - 🍿 [POST request video](https://youtu.be/Kw5tC5nQMRY) 
 
 ## Text to Images AI
 
