@@ -1,6 +1,7 @@
 # Final Project Documentation
 
 ## Schedule and Documentation Links:
+- David L - [title](url)
 - Shira - [title](url)
 - Suraj - [title](url)
 - Junoh - [title](url)
@@ -13,7 +14,6 @@
 - Yonatan - [title](url)
 - Henry - [title](url)
 - Nick - [title](url)
-- David L - [title](url)
 - Mai - [title](url)
 - Soojin - [title](url)
 
