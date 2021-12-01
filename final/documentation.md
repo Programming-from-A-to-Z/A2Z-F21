@@ -1,6 +1,21 @@
 # Final Project Documentation
 
-## Add a link to your proposal here
+## Schedule and Documentation Links:
+- Shira - [title](url)
+- Suraj - [title](url)
+- Junoh - [title](url)
+- David C - [title](url)
+- Jeeyoon - [title](url)
+- Cheer - [title](url)
+- Bowei - [title](url)
+- Casta - [title](url)
+- Xiangrui - [title](url)
+- Yonatan - [title](url)
+- Henry - [title](url)
+- Nick - [title](url)
+- David L - [title](url)
+- Mai - [title](url)
+- Soojin - [title](url)
 
 ## Guidelines
 
