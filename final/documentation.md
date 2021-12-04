@@ -1,7 +1,7 @@
 # Final Project Documentation
 
 ## Schedule and Documentation Links:
-- David L - [title](url)
+- David L - [Sally](https://wp.nyu.edu/davidaleyva/week-14-final-project-documentation/)
 - Shira - [title](url)
 - Suraj - [title](url)
 - Junoh - [title](url)
