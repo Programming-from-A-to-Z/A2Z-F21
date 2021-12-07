@@ -1,21 +1,23 @@
 # Final Project Documentation
 
 ## Schedule and Documentation Links:
-- David L - [Sally](https://wp.nyu.edu/davidaleyva/week-14-final-project-documentation/)
-- Shira - [title](url)
-- Suraj - [title](url)
-- Junoh - [title](url)
-- David C - [title](url)
-- Jeeyoon - [title](url)
-- Cheer - [title](url)
-- Bowei - [title](url)
-- Casta - [title](url)
-- Xiangrui - [title](url)
-- Yonatan - [title](url)
-- Henry - [title](url)
-- Nick - [title](url)
-- Mai - [title](url)
-- Soojin - [title](url)
+- 3:30: Welcome! 👋
+- 3:35: David L - [Sally](https://wp.nyu.edu/davidaleyva/week-14-final-project-documentation/)
+- 3:43: Shira - [title](url)
+- 3:51: Suraj - [title](url)
+- 3:59: Junoh - [title](url)
+- 4:07: David C - [title](url)
+- 4:15: Jeeyoon - [title](url)
+- 4:23: Cheer - [title](url)
+- 4:31: Bowei - [title](url)
+- BREAK
+- 5:00: Casta - [title](url)
+- 5:08: Xiangrui - [title](url)
+- 5:16: Yonatan - [title](url)
+- 5:24: Henry - [title](url)
+- 5:32: Nick - [title](url)
+- 5:40: Mai - [title](url)
+- 5:48: Soojin - [title](url)
 
 ## Guidelines
 
