@@ -57,6 +57,7 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 - Yonatan Rozin - [EMOTIONAL MOVIE CLIMAX generator](https://wp.nyu.edu/yonatanrozin/movie-climax-generator-with-cfgs/)
 - Mai - [Ask Dear One](https://wp.nyu.edu/mai_blog/week-9-a2z/)
 - Jeeyoon Hyun - [Fluffy Artist Generator](https://blog.jeeyoonhyun.com/2021/11/10/fluffy-artist-generator/)
+- Casta - [Album Stroy Generator](https://casta.notion.site/CFG-practice-eed63bbec03b4a568458449eb4829617)
 
 ## Emoji Key for Video Tutorials, Readings, and more
 
