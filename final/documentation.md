@@ -10,7 +10,7 @@
 - 4:23: Cheer - [Let's guess](https://wp.nyu.edu/tischschoolofthearts-cheers/week-12-final-project-proposals/)
 - 4:31: Bowei - [title](url)
 - BREAK
-- 5:00: Casta - [title](url)
+- 5:00: Casta - [K.K.Slider Bot](https://casta.notion.site/Final-K-K-Slider-bot-d48984419eab40a9a584cf7aac12c61b)
 - 5:08: Xiangrui - [title](url)
 - 5:16: Yonatan - [title](url)
 - 5:24: Henry - [myceli-net](https://docs.google.com/presentation/d/13ptWoRNiQRbkwENLJn_i6RoobS99tu6RYp_FLsvPYIQ/edit?usp=sharing)
