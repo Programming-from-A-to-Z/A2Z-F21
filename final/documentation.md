@@ -8,7 +8,7 @@
 - 3:59: Junoh - [title](url)
 - 4:07: David C - [title](url)
 - 4:15: Jeeyoon - [title](url)
-- 4:23: Cheer - [title](url)
+- 4:23: Cheer - [Let's guess](https://wp.nyu.edu/tischschoolofthearts-cheers/week-12-final-project-proposals/)
 - 4:31: Bowei - [title](url)
 - BREAK
 - 5:00: Casta - [title](url)
