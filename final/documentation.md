@@ -16,7 +16,7 @@
 - 5:24: Henry - [myceli-net](https://docs.google.com/presentation/d/13ptWoRNiQRbkwENLJn_i6RoobS99tu6RYp_FLsvPYIQ/edit?usp=sharing)
 - 5:32: Nick - [title](url)
 - 5:40: Mai - [title](url)
-- 5:48: Soojin - [title](url)
+- 5:48: Soojin - [Christmas Kindness Advent Calendar](https://soojin-lee0819.github.io/ITPBlog/project.html)
 
 ## Guidelines
 
