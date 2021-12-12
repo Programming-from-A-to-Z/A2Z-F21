@@ -8,7 +8,7 @@
 - 3:59: Junoh - [title](url)
 - 4:07: David C - [title](url)
 - 4:23: Cheer - [Let's guess](https://wp.nyu.edu/tischschoolofthearts-cheers/week-12-final-project-proposals/)
-- 4:31: Bowei - [title](url)
+- 4:31: Bowei - [Game Bot](https://www.boweixu.com/post/game-bot-a-to-z-final)
 - BREAK
 - 5:00: Casta - [K.K.Slider Bot](https://casta.notion.site/Final-K-K-Slider-bot-d48984419eab40a9a584cf7aac12c61b)
 - 5:08: Xiangrui - [title](url)
