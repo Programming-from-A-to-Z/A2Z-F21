@@ -11,7 +11,7 @@
 - 4:31: Bowei - [Game Bot](https://www.boweixu.com/post/game-bot-a-to-z-final)
 - BREAK
 - 5:00: Casta - [K.K.Slider Bot](https://casta.notion.site/Final-K-K-Slider-bot-d48984419eab40a9a584cf7aac12c61b)
-- 5:08: Xiangrui - [title](url)
+- 5:08: Xiangrui - [Sentiment Flowers](https://github.com/Siro1998/A-to-Z/tree/main/final%20project)
 - 5:16: Yonatan - [Context-Free Grammies](https://editor.p5js.org/yonatanrozin/full/WWzeJxnCP)
 - 5:24: Henry - [myceli-net](https://docs.google.com/presentation/d/13ptWoRNiQRbkwENLJn_i6RoobS99tu6RYp_FLsvPYIQ/edit?usp=sharing)
 - 5:32: Nick - [title](url)
