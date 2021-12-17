@@ -3,7 +3,7 @@
 ## Schedule and Documentation Links:
 - 3:30: Welcome! 👋
 - 3:35: David L - [Sally](https://wp.nyu.edu/davidaleyva/week-14-final-project-documentation/)
-- 3:43: Shira - [title](url)
+- 3:43: Shira - [drawings](https://github.com/Shira-sun/A2Z-final-project)
 - 3:51: Suraj - [title](url)
 - 3:59: Junoh - [title](url)
 - 4:07: David C - [title](url)
