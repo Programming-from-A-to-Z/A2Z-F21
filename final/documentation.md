@@ -4,7 +4,7 @@
 - 3:30: Welcome! 👋
 - 3:35: David L - [Sally](https://wp.nyu.edu/davidaleyva/week-14-final-project-documentation/)
 - 3:43: Shira - [drawings](https://github.com/Shira-sun/A2Z-final-project)
-- 3:51: Suraj - [title](url)
+- 3:51: Suraj - [Letters to...](https://surajbarthy.notion.site/A2Z-Final-Project-Blog-WIP-3816fe99cd1345fbab4824505848d37b)
 - 3:59: Junoh - [title](url)
 - 4:07: David C - [title](url)
 - 4:23: Cheer - [Let's guess](https://wp.nyu.edu/tischschoolofthearts-cheers/week-12-final-project-proposals/)
